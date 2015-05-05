@@ -1,7 +1,7 @@
 // On page load, do this
 $(document).ready(function(){
   
-var msg0 = 'Too great of an ultimatum. Take no action or try again.';
+var msg0 = 'Too great of an ultimatum. Take not action or try again.';
 var msg1 = 'I think you are missing some things. Add more blocks and retry.';
 var msg2 = 'Hola!';
 var msg3 = 'Hello, kitten';
