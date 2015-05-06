@@ -9,7 +9,13 @@ h1 {
 	font-size: 7em;
 	text-align: center;
 	padding-bottom: .5em;
-	 color: #FF5300;
+	color: #FF5300;
+}
+
+h2 {
+	font-size: 3em;
+	padding-top: 1em;
+	color: #FF5300;
 }
 
 div, p {
@@ -21,8 +27,6 @@ div, p {
 span {
 	text-transform: uppercase;
 	color: #FF5300;
-
-
 }
 
 .ui.button {
@@ -47,4 +51,7 @@ a, a:active {
  color: #FFF;
 }
 
+div#button {
+bottom: -10em;
+}
 
