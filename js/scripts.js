@@ -17,9 +17,8 @@ console.log( msg0, msg1, msg2, msg3, msg4, msg5, msg6, msg7, msg8 );
 
 // 2. Get random number
 // returns 0 to 'limit'
-var limit = 4;
+var limit = 9;
 var numRand = Math.floor(Math.random()*limit);
-
 
 // 3. if random number 0, show first message, etc. 
 
