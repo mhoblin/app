@@ -6,20 +6,21 @@ body {
 
 
 h1 {
-	font-size: 7em;
+	font-size: 5em;
 	text-align: center;
 	padding-bottom: .5em;
 	color: #FF5300;
 }
 
 h2 {
-	font-size: 3em;
-	padding-top: 1em;
+	font-size: 2.5em;
+	padding-top: 5em;
 	color: #FF5300;
 }
 
+
 div, p {
-	font-size: 3em;
+	font-size: 2em;
 }
 
 
@@ -52,6 +53,14 @@ a, a:active {
 }
 
 div#button {
-bottom: -10em;
+position: fixed;
+top: 44em;
+left: 2.5em;
+}
+
+div#restart {
+position: fixed;
+top: 56em;
+left: 2.5em;
 }
 

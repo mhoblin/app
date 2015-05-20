@@ -10,14 +10,20 @@ var msg5 = 'Your abuser apologized and agrees to go to counceling. Add a block t
 var msg6 = 'something 7';
 var msg7 = 'something 8';
 var msg8 = 'something 9';
+var msg9 = 'something 9';
+var msg10 = 'something 9';
+var msg11 = 'something 9';
+var msg12 = 'something 9';
+var msg13 = 'something 9';
+var msg14 = 'something 9';
 
-console.log( msg0, msg1, msg2, msg3, msg4, msg5, msg6, msg7, msg8 );
+console.log( msg0, msg1, msg2, msg3, msg4, msg5, msg6, msg7, msg8, msg9, msg10, msg11, msg12, msg13, msg14 );
 
 
 
 // 2. Get random number
 // returns 0 to 'limit'
-var limit = 9;
+var limit = 15;
 var numRand = Math.floor(Math.random()*limit);
 
 // 3. if random number 0, show first message, etc. 
