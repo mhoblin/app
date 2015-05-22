@@ -9,15 +9,17 @@ var msg4 = 'You are on suicidal watch. Add another block to "reasons to leave" a
 var msg5 = 'Your abuser apologized and agrees to go to counceling. Add a block to reasons to stay.';
 var msg6 = 'Exchange the largest block on the right with the smallest block on the left and try again.';
 var msg7 = 'Your abuser bought a gun. If it is not there already, add "I will be killed" as a reason to leave';
+var msg8 = 'Your abuser left for a business trip. This gave you time to forget about the abuse. Remove a block from reasons to leave';
+var msg9 = 'You take a walk to clear your head. Trade three blocks for three new ones.';
 
 
-console.log( msg0, msg1, msg2, msg3, msg4, msg5, msg6, msg7 );
+console.log( msg0, msg1, msg2, msg3, msg4, msg5, msg6, msg7, msg8, msg9 );
 
 
 
 // 2. Get random number
 // returns 0 to 'limit'
-var limit = 8;
+var limit = 10 ;
 var numRand = Math.floor(Math.random()*limit);
 
 // 3. if random number 0, show first message, etc. 
